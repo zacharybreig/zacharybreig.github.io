@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Zachary Breig
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -66,10 +66,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "z.breig@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+  twitter: ZacharyBreig
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -86,8 +86,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+#  facebook: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
