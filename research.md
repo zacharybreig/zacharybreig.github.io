@@ -8,6 +8,7 @@ title: Research
 
 ### Working Papers
 
+"[Delegation with Continuation Values](https://zacharybreig.github.io/papers/DCV.pdf)"
 
 ### Work in Progress
 
