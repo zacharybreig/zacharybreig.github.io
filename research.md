@@ -10,13 +10,13 @@ title: Research
 
 [Delegation with Continuation Values](https://zacharybreig.github.io/papers/DCV.pdf)
 
-Agency Breadth and Political Influence (with Mitch Downey)
+[Agency Breadth and Political Influence](https://zacharybreig.github.io/papers/AgencyBreadth.pdf) (with Mitch Downey)
 
 Why Do We Procrastinate? Present Bias and Optimism (with Matthew Gibson and Jeffrey Shrader)
 
-Repeated Contracting without Commitment
-
 ### Work in Progress
+
+Repeated Contracting without Commitment
 
 Risky Mistakes and Revisions (with Paul Feldman)
 
