@@ -26,6 +26,8 @@ Bidding According to GARP (with Paul Feldman)
 
 Experimental Auctions with Securities (with Allan Hernández-Chanto)
 
-### Publications
+### Published & Forthcoming
 
-Breig, Zachary. "Endogenous and exogenous commitment." Economics Letters 183 (2019): 108577.
+Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ 183 (2019): 108577.
+
+Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ (accepted)
