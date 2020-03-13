@@ -12,7 +12,7 @@ title: Research
 
 [Agency Breadth and Political Influence](https://zacharybreig.github.io/papers/AgencyBreadth.pdf) (with Mitch Downey)
 
-Why Do We Procrastinate? Present Bias and Optimism (with Matthew Gibson and Jeffrey Shrader)
+[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.github.io/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
 ### Work in Progress
 
