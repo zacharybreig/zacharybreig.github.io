@@ -14,9 +14,9 @@ title: Research
 
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
-### Work in Progress
+[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf)
 
-Repeated Contracting without Commitment
+### Work in Progress
 
 Risky Mistakes and Revisions (with Paul Feldman)
 
