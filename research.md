@@ -1,3 +1,4 @@
+---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168810255-1"></script>
 <script>
@@ -7,9 +8,6 @@
 
   gtag('config', 'UA-168810255-1');
 </script>
-
-
----
 layout: page
 title: Research
 ---
