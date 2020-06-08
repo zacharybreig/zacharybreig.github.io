@@ -28,6 +28,6 @@ Experimental Auctions with Securities (with Allan Hernández-Chanto)
 
 ### Published & Forthcoming
 
-Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ 183 (2019): 108577.
+Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ (2019).
 
-Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ (accepted)
+Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ (2020).
