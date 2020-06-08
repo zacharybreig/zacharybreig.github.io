@@ -27,9 +27,9 @@ title: Research
 
 [Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf)
 
-### Work in Progress
+[Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
 
-Risky Mistakes and Revisions (with Paul Feldman)
+### Work in Progress
 
 Biased Contest Judges (with Gregory Kubitz)
 
