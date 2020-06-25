@@ -18,9 +18,9 @@ title: Research
 
 [Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
 
-### Work in Progress
+[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
-Biased Contest Judges (with Gregory Kubitz)
+### Work in Progress
 
 Bidding According to GARP (with Paul Feldman)
 
