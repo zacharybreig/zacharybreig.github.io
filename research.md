@@ -8,13 +8,13 @@ title: Research
 
 ### Working Papers
 
+[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf) Revise and Resubmit, _Journal of Economic Theory_
+
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
 [Agency Breadth and Political Influence](https://zacharybreig.com/papers/AgencyBreadth.pdf) (with Mitch Downey)
 
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
-
-[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf)
 
 [Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
 
