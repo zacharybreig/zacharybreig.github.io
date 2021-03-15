@@ -12,7 +12,7 @@ title: Research
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
-[Agency Breadth and Political Influence](https://zacharybreig.com/papers/AgencyBreadth.pdf) (with Mitch Downey) Revise and Resubmit, _Journal of Economic Behavior and Organization_
+[Agency Breadth and Political Influence](https://zacharybreig.com/papers/AgencyBreadth.pdf) (with Mitch Downey) Accepted, _Journal of Economic Behavior and Organization_
 
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
