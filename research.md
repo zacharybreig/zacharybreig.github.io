@@ -12,8 +12,6 @@ title: Research
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
-[Agency Breadth and Political Influence](https://zacharybreig.com/papers/AgencyBreadth.pdf) (with Mitch Downey) Accepted, _Journal of Economic Behavior and Organization_
-
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
 [Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
@@ -28,6 +26,8 @@ Experimental Auctions with Securities (with Allan Hernández-Chanto)
 
 ### Published & Forthcoming
 
-Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ (2019).
+Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ 183 (2019): 108577.
 
-Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ (2020).
+Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ 96, no. 313 (2020): 153-176.
+
+Breig, Zachary, and Mitch Downey. "Agency breadth and political influence." _Journal of Economic Behavior & Organization_ 188 (2021): 253-268.
