@@ -8,7 +8,7 @@ title: Research
 
 ### Working Papers
 
-[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf) Revise and Resubmit, _Journal of Economic Theory_
+[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf)  2<sup>nd</sup> Revise and Resubmit, _Journal of Economic Theory_
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
