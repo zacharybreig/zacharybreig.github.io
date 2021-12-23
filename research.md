@@ -12,7 +12,7 @@ title: Research
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
-[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader)
+[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/present_bias_and_optimism.pdf) (with Matthew Gibson and Jeffrey Shrader) Revise and Resubmit, _The Economic Journal_
 
 [Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
 
