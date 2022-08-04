@@ -9,7 +9,7 @@ title: Research
 ### Working Papers
 
 
-[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)
+[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt)
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
