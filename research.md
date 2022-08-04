@@ -8,7 +8,8 @@ title: Research
 
 ### Working Papers
 
-[Repeated Contracting without Commitment](https://zacharybreig.com/papers/RCwC.pdf)  Accepted, _Journal of Economic Theory_
+
+[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
@@ -31,3 +32,5 @@ Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ 183 (
 Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ 96, no. 313 (2020): 153-176.
 
 Breig, Zachary, and Mitch Downey. "Agency breadth and political influence." _Journal of Economic Behavior & Organization_ 188 (2021): 253-268.
+
+Breig, Zachary. "Repeated contracting without commitment." _Journal of Economic Theory_ 204 (2022): 105514.
