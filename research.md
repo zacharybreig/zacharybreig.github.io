@@ -23,7 +23,11 @@ title: Research
 
 Bidding According to GARP (with Paul Feldman)
 
-Experimental Auctions with Securities (with Allan Hernández-Chanto)
+Revealed Preference Tests for Linear Probability-Prize Tradeoffs (with Paul Feldman)
+
+Norm Enforcement in Coordination Games (with Kate Green and Vera te Velde)
+
+How Decision Quality Changes within Experiments (with Guanting Du)
 
 ### Published & Forthcoming
 
