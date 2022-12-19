@@ -31,7 +31,7 @@ How Decision Quality Changes within Experiments (with Guanting Du)
 
 ### Published & Forthcoming
 
-Breig, Zachary. "Endogenous and exogenous commitment." _Economics Letters_ 183 (2019): 108577.
+Breig, Zachary. "[Endogenous and exogenous commitment](https://zacharybreig.com/papers/EEC.pdf)." _Economics Letters_ 183 (2019): 108577.
 
 Breig, Zachary. "Prediction and Model Selection in Experiments." _Economic Record_ 96, no. 313 (2020): 153-176.
 
