@@ -25,6 +25,8 @@ Bidding According to GARP (with Paul Feldman)
 
 Revealed Preference Tests for Linear Probability-Prize Tradeoffs (with Paul Feldman)
 
+Competing Sellers in Experimental Auctions with Securities (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
+
 Norm Enforcement in Coordination Games (with Kate Green and Vera te Velde)
 
 How Decision Quality Changes within Experiments (with Guanting Du)
