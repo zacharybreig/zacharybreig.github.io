@@ -19,11 +19,11 @@ title: Research
 
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
+[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman)
+
 ### Work in Progress
 
 Bidding According to GARP (with Paul Feldman)
-
-Revealed Preference Tests for Linear Probability-Prize Tradeoffs (with Paul Feldman)
 
 Competing Sellers in Experimental Auctions with Securities (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
 
