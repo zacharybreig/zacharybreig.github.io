@@ -17,7 +17,7 @@ title: Research
 
 [Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman)
 
-[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
+[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz) _Journal of Public Economic Theory_
 
 [Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman)
 
