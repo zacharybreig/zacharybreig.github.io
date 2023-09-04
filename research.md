@@ -21,11 +21,11 @@ title: Research
 
 [Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman)
 
+[Competition between sellers in security-bid auctions: An experimental study]((https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
+
 ### Work in Progress
 
 Bidding According to GARP (with Paul Feldman)
-
-Competing Sellers in Experimental Auctions with Securities (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
 
 Norm Enforcement in Coordination Games (with Kate Green and Vera te Velde)
 
