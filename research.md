@@ -33,7 +33,7 @@ How Decision Quality Changes within Experiments (with Guanting Du)
 
 ### Published & Forthcoming
 
-Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." Health & Social Care in the Community 2023 (2023).
+Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 2023 (2023).
 
 Breig, Zachary. "[Repeated contracting without commitment](https://zacharybreig.com/papers/RCwC.pdf)." _Journal of Economic Theory_ 204 (2022): 105514.
 
