@@ -8,7 +8,6 @@ title: Research
 
 ### Working Papers
 
-
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt)
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
@@ -23,15 +22,9 @@ title: Research
 
 [Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
 
-### Work in Progress
-
-Bidding According to GARP (with Paul Feldman)
-
-Norm Enforcement in Coordination Games (with Kate Green and Vera te Velde)
-
-How Decision Quality Changes within Experiments (with Guanting Du)
-
 ### Published & Forthcoming
+
+Breig, Zachary, and Paul Feldman. "[Revealing risky mistakes through revisions](https://zacharybreig.com/papers/RMR.pdf)." _Journal of Risk and Uncertainty_ (2024): 1-28.
 
 Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 2023 (2023).
 
