@@ -14,8 +14,6 @@ title: Research
 
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader) [[Appendix](https://zacharybreig.com/papers/PBO_appendix.pdf), [Survey Instruments](https://zacharybreig.com/papers/PBO_instrument_appendix.pdf)]
 
-[Revealing Risky Mistakes through Revisions](https://zacharybreig.com/papers/RMR.pdf) (with Paul Feldman) Accepted, _Journal of Risk and Uncertainty_
-
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
 [Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman)
