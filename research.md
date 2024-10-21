@@ -12,7 +12,7 @@ title: Research
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
-[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader) [[Appendix](https://zacharybreig.com/papers/PBO_appendix.pdf), [Survey Instruments](https://zacharybreig.com/papers/PBO_instrument_appendix.pdf)]
+[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
