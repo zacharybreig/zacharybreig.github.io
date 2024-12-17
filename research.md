@@ -10,7 +10,7 @@ title: Research
 
 [The Missing Loser’s Curse: Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato)
 
-[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt)
+[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_
 
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
