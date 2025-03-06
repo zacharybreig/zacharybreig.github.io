@@ -18,15 +18,13 @@ title: Research
 
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
-[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman)
+[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman) Revise and Resubmit, _Theory and Decision_
 
 [Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
 
-### Published & Forthcoming
+### Economics Publications 
 
 Breig, Zachary, and Paul Feldman. "[Revealing risky mistakes through revisions](https://zacharybreig.com/papers/RMR.pdf)." _Journal of Risk and Uncertainty_ (2024): 1-28.
-
-Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 2023 (2023).
 
 Breig, Zachary. "[Repeated contracting without commitment](https://zacharybreig.com/papers/RCwC.pdf)." _Journal of Economic Theory_ 204 (2022): 105514.
 
@@ -35,3 +33,8 @@ Breig, Zachary, and Mitch Downey. "[Agency breadth and political influence](http
 Breig, Zachary. "[Prediction and Model Selection in Experiments](https://zacharybreig.com/papers/PMSE.pdf)." _Economic Record_ 96, no. 313 (2020): 153-176.
 
 Breig, Zachary. "[Endogenous and exogenous commitment](https://zacharybreig.com/papers/EEC.pdf)." _Economics Letters_ 183 (2019): 108577.
+
+### Other Publications 
+
+Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 2023 (2023).
+
