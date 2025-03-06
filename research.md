@@ -38,5 +38,5 @@ Breig, Zachary. "[Endogenous and exogenous commitment](https://zacharybreig.com/
 
 Kenny, Danelle, Kim-Huong Nguyen, Zachary Breig, Lana Friesen, and Tracy Comans. "[Decisions, Decisions: Observations of Resource Allocation Under Consumer-Directed Care](https://zacharybreig.com/papers/Decisions.pdf)." _Healthcare_ 13, no. 5 (2025): 516.
 
-Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 2023 (2023).
+Kenny, Danelle, Kim-Huong Nguyen, Lana Friesen, Zachary Breig, and Tracy Comans. "[Heuristics, Biases, and Decisions in Resource Allocation for Home Care Packages under Consumer Directed Care: A Systematic Review and Thematic Synthesis](https://zacharybreig.com/papers/CDC.pdf)." _Health & Social Care in the Community_ 31, no. 1 (2023): 4157055.
 
