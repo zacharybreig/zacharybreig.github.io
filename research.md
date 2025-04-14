@@ -20,7 +20,7 @@ title: Research
 
 [Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman) Revise and Resubmit, _Theory and Decision_
 
-[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) 
+[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_
 
 ### Economics Publications 
 
