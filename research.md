@@ -8,19 +8,21 @@ title: Research
 
 ### Working Papers
 
-[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato)
+[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman) Revise and Resubmit, _Theory and Decision_
 
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_
 
-[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
+[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_
+
+[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto)
+
+[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato)
 
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader)
 
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz)
 
-[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman) Revise and Resubmit, _Theory and Decision_
-
-[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_
+[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
 ### Economics Publications 
 
