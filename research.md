@@ -8,8 +8,6 @@ title: Research
 
 ### Working Papers
 
-[Revealed Preference Tests for Linear Probability-Prize Tradeoffs](https://zacharybreig.com/papers/LPPT.pdf) (with Paul Feldman) Revise and Resubmit, _Theory and Decision_
-
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_
 
 [Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_
@@ -25,6 +23,8 @@ title: Research
 [Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
 ### Economics Publications 
+
+Breig, Zachary, and Paul Feldman. "[Revealed preference tests for linear probability-prize tradeoffs](https://zacharybreig.com/papers/LPPT.pdf)." _Theory and Decision_ (2025): 1-23.
 
 Breig, Zachary, and Paul Feldman. "[Revealing risky mistakes through revisions](https://zacharybreig.com/papers/RMR.pdf)." _Journal of Risk and Uncertainty_ 68, no. 3 (2024): 227-254.
 
