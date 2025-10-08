@@ -8,13 +8,13 @@ title: Research
 
 ### Working Papers
 
-<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
-<b>[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf)</b> (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_ <br>
-<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with Antonio Rosato) <br>
-<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
-<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with Matthew Gibson and Jeffrey Shrader) <br>
-<b>[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf)</b> (with Gregory Kubitz) <br>
-<b>[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)</b>
+[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
+[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_ <br>
+[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
+[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
+[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader) <br>
+[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz) <br>
+[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
 
 ### Selected Work in Progress
 
