@@ -786,3 +786,25 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+
+/* === Width + margins override (Zach) === */
+
+/* Widen Bootstrap container on larger screens */
+@media (min-width: 992px)  { .container { width: 1100px; } }
+@media (min-width: 1200px) { .container { width: 1220px; } }
+
+/* Widen the theme’s content area */
+.page-content, .post-content, .home .posts, .post, .page {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Optional: neutralize Bootstrap offsets if the theme uses them */
+@media (min-width: 768px) {
+  .col-sm-offset-2 { margin-left: 0; }
+  .col-sm-8       { width: 100%; }
+}
