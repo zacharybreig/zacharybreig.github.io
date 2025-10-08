@@ -788,23 +788,56 @@ pre {
 }
 
 
-/* === Width + margins override (Zach) === */
+/* ============================================= */
+/* === Wider layout and compact research lists === */
+/* ============================================= */
 
-/* Widen Bootstrap container on larger screens */
-@media (min-width: 992px)  { .container { width: 1100px; } }
-@media (min-width: 1200px) { .container { width: 1220px; } }
-
-/* Widen the theme’s content area */
-.page-content, .post-content, .home .posts, .post, .page {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+/* Widen Bootstrap's main container for laptops and desktops */
+@media (min-width: 992px) {
+  .container {
+    width: 1250px;    /* comfortably wide for 13–15" laptops */
+    max-width: 90vw;  /* responsive safety limit */
+  }
 }
 
-/* Optional: neutralize Bootstrap offsets if the theme uses them */
+@media (min-width: 1200px) {
+  .container {
+    width: 1350px;    /* upper bound for typical laptop screens */
+    max-width: 92vw;
+  }
+}
+
+/* Widen the main content area for Beautiful Jekyll */
+.page-content,
+.post-content,
+.home .posts,
+.post,
+.page {
+  max-width: 1300px;       /* increases readable width */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 1.55em;     /* keep text readable */
+}
+
+/* Remove Bootstrap offsets (Beautiful Jekyll uses col-sm-offset-2 col-sm-8) */
 @media (min-width: 768px) {
-  .col-sm-offset-2 { margin-left: 0; }
-  .col-sm-8       { width: 100%; }
+  .col-sm-offset-2 { margin-left: 0 !important; }
+  .col-sm-8       { width: 100% !important; }
+}
+
+/* Compact list style for research papers and work in progress */
+ul.compact-list,
+ul.no-bullets {
+  list-style-position: outside;
+  margin: 0;
+  padding-left: 1.2em;
+}
+
+ul.compact-list li,
+ul.no-bullets li {
+  margin: 0;
+  padding: 0;
+  line-height: 1.3em;
 }
