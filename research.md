@@ -8,21 +8,21 @@ title: Research
 
 ### Working Papers
 
-[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
-[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_ <br>
-[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
-[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
-[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader) <br>
-[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz) <br>
-[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)
+<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
+<b>[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf)</b> (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Revise and Resubmit, _Experimental Economics_ <br>
+<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with Antonio Rosato) <br>
+<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
+<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with Matthew Gibson and Jeffrey Shrader) <br>
+<b>[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf)</b> (with Gregory Kubitz) <br>
+<b>[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)</b>
 
 ### Selected Work in Progress
 
-Experimental Fixed-Equity Auctions: The Common Value Case (with Allan Hern&aacute;ndez-Chanto and Diego Carrasco Novoa) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16839) <br>
-Backwards Induction and the Game of Chomp (with Hai Anh Pham) — Status: Full data collected. <br>
-Ransomware Insurance (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/13035) <br>
-Policies for Cybersecurity: an Experimental Approach (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/15738) <br>
-Security Design under Asymmetric Information: Evidence from the Lab (with Allan Hern&aacute;ndez-Chanto and Jingjing Zhang)  — Status: Pilot data collected. 
+<b>Experimental Fixed-Equity Auctions: The Common Value Case</b> (with Allan Hern&aacute;ndez-Chanto and Diego Carrasco Novoa) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16839) <br>
+<b>Backwards Induction and the Game of Chomp</b> (with Hai Anh Pham) — Status: Full data collected. <br>
+<b>Ransomware Insurance</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/13035) <br>
+<b>Policies for Cybersecurity: an Experimental Approach</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/15738) <br>
+<b>Security Design under Asymmetric Information: Evidence from the Lab</b> (with Allan Hern&aacute;ndez-Chanto and Jingjing Zhang)  — Status: Pilot data collected. 
 
 ### Economics Publications 
 
