@@ -11,6 +11,7 @@ title: Research
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
 [Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Accepted, _Experimental Economics_ <br>
 [The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
+[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf) (with Hai Anh Pham) <br>
 [Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
 [Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf) (with Matthew Gibson and Jeffrey Shrader) <br>
 [Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf) (with Gregory Kubitz) <br>
@@ -19,7 +20,6 @@ title: Research
 ### Selected Work in Progress
 
 <b>Experimental Fixed-Equity Auctions: The Common Value Case</b> (with Allan Hern&aacute;ndez-Chanto and Diego Carrasco Novoa) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16839) <br>
-<b>Backwards Induction and the Game of Chomp</b> (with Hai Anh Pham) — Status: Full data collected. <br>
 <b>Ransomware Insurance</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/13035) <br>
 <b>Policies for Cybersecurity: an Experimental Approach</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/15738) <br>
 <b>Security Design under Asymmetric Information: Evidence from the Lab</b> (with Allan Hern&aacute;ndez-Chanto and Jingjing Zhang)  — Status: Pilot data collected. 
