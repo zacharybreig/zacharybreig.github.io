@@ -9,7 +9,7 @@ title: Research
 ### Working Papers
 
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
-[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Accepted, _Experimental Economics_ <br>
+[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Forthcoming, _Experimental Economics_ <br>
 [The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
 [Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf) (with Hai Anh Pham) <br>
 [Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
