@@ -9,7 +9,7 @@ title: Research
 ### Working Papers
 
 [Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
-[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf) (with Allan Hern&aacute;ndez-Chanto and Elliot Hiller) Forthcoming, _Experimental Economics_ <br>
+[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf) (with Claudio Mezzetti and Zarina Vakhitova) <br>
 [The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
 [Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf) (with Hai Anh Pham) <br>
 [Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf) (with Tono Carrasco and Allan Hern&aacute;ndez-Chanto) <br>
@@ -20,12 +20,14 @@ title: Research
 ### Selected Work in Progress
 
 <b>Experimental Fixed-Equity Auctions: The Common Value Case</b> (with Allan Hern&aacute;ndez-Chanto and Diego Carrasco Novoa) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16839) <br>
-<b>Ransomware Insurance</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/13035) <br>
 <b>Policies for Cybersecurity: an Experimental Approach</b> (with Claudio Mezzetti and Zarina Vakhitova) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/15738) <br>
-<b>Security Design under Asymmetric Information: Evidence from the Lab</b> (with Allan Hern&aacute;ndez-Chanto and Jingjing Zhang)  — Status: Pilot data collected. 
+<b>Security Design under Asymmetric Information: Evidence from the Lab</b> (with Allan Hern&aacute;ndez-Chanto and Jingjing Zhang)  — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16978) <br>
+<b>Optimal Scoring Auctions for Procurement</b> (with Diego Carrasco Novoa, Allan Hern&aacute;ndez-Chanto, and Ernesto Rivera Mora)  — Status: Collecting data. [Pre-Registration](https://www.socialscienceregistry.org/trials/17041) <br>
+
 
 ### Economics Publications 
 
+Breig, Zachary, Allan Hern&aacute;ndez-Chanto, and Elliot Hiller. "[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf)." _Experimental Economics_, forthcoming. <br>
 Breig, Zachary, and Paul Feldman. "[Revealed preference tests for linear probability-prize tradeoffs](https://zacharybreig.com/papers/LPPT.pdf)." _Theory and Decision_ (2025): 1-23. <br>
 Breig, Zachary, and Paul Feldman. "[Revealing risky mistakes through revisions](https://zacharybreig.com/papers/RMR.pdf)." _Journal of Risk and Uncertainty_ 68, no. 3 (2024): 227-254. <br>
 Breig, Zachary. "[Repeated contracting without commitment](https://zacharybreig.com/papers/RCwC.pdf)." _Journal of Economic Theory_ 204 (2022): 105514. <br>
