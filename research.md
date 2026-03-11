@@ -8,7 +8,7 @@ title: Research
 
 ### Working Papers
 
-[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Revise and Resubmit, _The Economic Journal_ <br>
+[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf) (with Allan Hern&aacute;ndez-Chanto and Declan Hunt) Conditionally Accepted, _The Economic Journal_ <br>
 [Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf) (with Hai Anh Pham) Revise and Resubmit, _Journal of Economic Behavior and Organization_<br>
 [Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf) (with Claudio Mezzetti and Zarina Vakhitova) <br>
 [The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf) (with Antonio Rosato) <br>
