@@ -23,25 +23,25 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf)</b> (with [Claudio Mezzetti](https://sites.google.com/site/clamezzetti) and [Zarina Vakhitova](https://www.vakhitova.com/)) <br>
+<b>[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf)</b> (with [Claudio Mezzetti](https://sites.google.com/site/clamezzetti) and [Zarina Vakhitova](https://www.vakhitova.com/)) [Pre-registration](https://www.socialscienceregistry.org/trials/13035) &middot; [PAP](https://www.socialscienceregistry.org/versions/287949/docs/version/document) <br>
 
 </div>
 
 <div class="paper-entry" markdown="1">
 
-<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home)) <br>
+<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home)) [Pre-registration](https://www.socialscienceregistry.org/trials/13159) &middot; [PAP](https://www.socialscienceregistry.org/versions/245531/docs/version/document) <br>
 
 </div>
 
 <div class="paper-entry" markdown="1">
 
-<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with [Tono Carrasco](http://www.tonocarrasco.com/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) Revise and Resubmit, _Journal of Behavioral and Experimental Economics_ <br>
+<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with [Tono Carrasco](http://www.tonocarrasco.com/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) Revise and Resubmit, _Journal of Behavioral and Experimental Economics_ [Pre-registration](https://www.socialscienceregistry.org/trials/14339) &middot; [PAP](https://www.socialscienceregistry.org/versions/257741/docs/version/document) <br>
 
 </div>
 
 <div class="paper-entry" markdown="1">
 
-<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home) and [Jeffrey Shrader](https://jeffreyshrader.com/)) Revise and Resubmit, _Experimental Economics_ <br>
+<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home) and [Jeffrey Shrader](https://jeffreyshrader.com/)) Revise and Resubmit, _Experimental Economics_ [Pre-registration](https://www.socialscienceregistry.org/trials/11140) &middot; [PAP](https://www.socialscienceregistry.org/versions/176831/docs/version/document)<br>
 
 </div>
 
