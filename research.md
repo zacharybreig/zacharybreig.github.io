@@ -12,7 +12,7 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [[Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
+<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
 
 </div>
 
