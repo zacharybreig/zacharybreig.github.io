@@ -11,10 +11,6 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Declan Hunt](https://www.linkedin.com/in/declanhunt/)) Accepted, _The Economic Journal_
-
-</div>
-
 <b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Declan Hunt](https://www.linkedin.com/in/declanhunt/)) Accepted, _The Economic Journal_ <br>
 <b>[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b> (with [Hai Anh Pham](https://haianhpham.com/)) Revise and Resubmit, _Journal of Economic Behavior and Organization_<br>
 <b>[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf)</b> (with [Claudio Mezzetti](https://sites.google.com/site/clamezzetti) and [Zarina Vakhitova](https://www.vakhitova.com/)) <br>
@@ -23,6 +19,10 @@ css:
 <b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home) and [Jeffrey Shrader](https://jeffreyshrader.com/)) Revise and Resubmit, _Experimental Economics_ <br>
 <b>[Biased Contest Judges](https://zacharybreig.com/papers/BCJ.pdf)</b> (with [Gregory Kubitz](https://www.gskubitz.com/)) <br>
 <b>[Delegation with Continuation Values](https://zacharybreig.com/papers/DCV.pdf)</b>
+
+</div>
+
+
 
 ### Selected Work in Progress
 
