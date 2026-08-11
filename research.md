@@ -9,6 +9,13 @@ css:
 
 ### Working Papers
 
+
+<div class="paper-entry" markdown="1">
+
+<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [[Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
+
+</div>
+
 <div class="paper-entry" markdown="1">
 
 <b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Declan Hunt](https://www.linkedin.com/in/declanhunt/)) Accepted, _The Economic Journal_ [Pre-registration](https://www.socialscienceregistry.org/trials/9157) &middot; [PAP](https://www.socialscienceregistry.org/versions/145767/docs/version/document) <br>
@@ -65,12 +72,6 @@ css:
 
 
 ### Selected Work in Progress
-
-<div class="paper-entry" markdown="1">
-
-<b>Experimental Fixed-Equity Auctions: The Common Value Case</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/16839) <br>
-
-</div>
 
 <div class="paper-entry" markdown="1">
 
