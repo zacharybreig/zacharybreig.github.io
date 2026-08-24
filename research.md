@@ -24,7 +24,7 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b> (with [Hai Anh Pham](https://haianhpham.com/)) Revise and Resubmit, _Journal of Economic Behavior and Organization_<br>
+<b>[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b> (with [Hai Anh Pham](https://haianhpham.com/)) Accepted, _Journal of Economic Behavior and Organization_<br>
 
 </div>
 
