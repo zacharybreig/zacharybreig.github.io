@@ -36,7 +36,7 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home)) [Pre-registration](https://www.socialscienceregistry.org/trials/13159) &middot; [PAP](https://www.socialscienceregistry.org/versions/245531/docs/version/document) <br>
+<b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home)) Revise and Resubmit, _American Economic Journal: Microeconomics_ [Pre-registration](https://www.socialscienceregistry.org/trials/13159) &middot; [PAP](https://www.socialscienceregistry.org/versions/245531/docs/version/document) <br>
 
 </div>
 
