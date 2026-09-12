@@ -9,28 +9,9 @@ css:
 
 ### Working Papers
 
-
-<div class="paper-entry" markdown="1">
-
-<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
-
-</div>
-
-<div class="paper-entry" markdown="1">
-
-<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Declan Hunt](https://www.linkedin.com/in/declanhunt/)) Accepted, _The Economic Journal_ [Pre-registration](https://www.socialscienceregistry.org/trials/9157) &middot; [PAP](https://www.socialscienceregistry.org/versions/145767/docs/version/document) <br>
-
-</div>
-
 <div class="paper-entry" markdown="1">
 
 <b>[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b> (with [Hai Anh Pham](https://haianhpham.com/)) Accepted, _Journal of Economic Behavior and Organization_<br>
-
-</div>
-
-<div class="paper-entry" markdown="1">
-
-<b>[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf)</b> (with [Claudio Mezzetti](https://sites.google.com/site/clamezzetti) and [Zarina Vakhitova](https://www.vakhitova.com/)) [Pre-registration](https://www.socialscienceregistry.org/trials/13035) &middot; [PAP](https://www.socialscienceregistry.org/versions/287949/docs/version/document) <br>
 
 </div>
 
@@ -42,13 +23,25 @@ css:
 
 <div class="paper-entry" markdown="1">
 
+<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home) and [Jeffrey Shrader](https://jeffreyshrader.com/)) Revise and Resubmit, _Experimental Economics_ [Experiment 2 Pre-registration](https://www.socialscienceregistry.org/trials/11140) &middot; [PAP](https://www.socialscienceregistry.org/versions/176831/docs/version/document)<br>
+
+</div>
+
+<div class="paper-entry" markdown="1">
+
 <b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with [Tono Carrasco](http://www.tonocarrasco.com/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) Revise and Resubmit, _Journal of Behavioral and Experimental Economics_ [Pre-registration](https://www.socialscienceregistry.org/trials/14339) &middot; [PAP](https://www.socialscienceregistry.org/versions/257741/docs/version/document) <br>
 
 </div>
 
 <div class="paper-entry" markdown="1">
 
-<b>[Why Do We Procrastinate? Present Bias and Optimism](https://zacharybreig.com/papers/PBO.pdf)</b> (with [Matthew Gibson](https://sites.google.com/a/williams.edu/gibson/home) and [Jeffrey Shrader](https://jeffreyshrader.com/)) Revise and Resubmit, _Experimental Economics_ [Experiment 2 Pre-registration](https://www.socialscienceregistry.org/trials/11140) &middot; [PAP](https://www.socialscienceregistry.org/versions/176831/docs/version/document)<br>
+<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
+
+</div>
+
+<div class="paper-entry" markdown="1">
+
+<b>[Ransomware Insurance](https://zacharybreig.com/papers/RI.pdf)</b> (with [Claudio Mezzetti](https://sites.google.com/site/clamezzetti) and [Zarina Vakhitova](https://www.vakhitova.com/)) [Pre-registration](https://www.socialscienceregistry.org/trials/13035) &middot; [PAP](https://www.socialscienceregistry.org/versions/287949/docs/version/document) <br>
 
 </div>
 
@@ -98,6 +91,12 @@ css:
 
 
 ### Economics Publications 
+
+<div class="paper-entry" markdown="1">
+
+Breig, Zachary, [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Declan Hunt](https://www.linkedin.com/in/declanhunt/). "<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b>." Forthcoming, _The Economic Journal_. [Pre-registration](https://www.socialscienceregistry.org/trials/9157) &middot; [PAP](https://www.socialscienceregistry.org/versions/145767/docs/version/document) <br>
+
+</div>
 
 <div class="paper-entry" markdown="1">
 
