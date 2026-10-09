@@ -11,12 +11,6 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Finite Foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b> (with [Hai Anh Pham](https://haianhpham.com/)) Accepted, _Journal of Economic Behavior and Organization_<br>
-
-</div>
-
-<div class="paper-entry" markdown="1">
-
 <b>[The Missing "Loser’s Curse": Experimental Evidence on Belief-Based Models in Common-Value Auctions](https://zacharybreig.com/papers/MLC.pdf)</b> (with [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home)) Revise and Resubmit, _American Economic Journal: Microeconomics_ [Pre-registration](https://www.socialscienceregistry.org/trials/13159) &middot; [PAP](https://www.socialscienceregistry.org/versions/245531/docs/version/document) <br>
 
 </div>
@@ -35,7 +29,13 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto) and [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
+<b>[Scoring Contingent Auctions for Procurement: Theory and Experimental Evidence](https://zacharybreig.com/papers/CES.pdf)</b> (with [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/), [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Ernesto Rivera Mora](https://www.ernestoriveramora.com/)) [Part 1 Pre-Registration](https://www.socialscienceregistry.org/trials/17041) and [Part 2](https://www.socialscienceregistry.org/trials/17929)<br>
+
+</div>
+
+<div class="paper-entry" markdown="1">
+
+<b>[Common-Value Fixed-Equity Auctions under Induced Risk Aversion](https://zacharybreig.com/papers/CVFE.pdf)</b> (with [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) [Pre-registration](https://www.socialscienceregistry.org/trials/16839) &middot; [PAP](https://www.socialscienceregistry.org/versions/317389/docs/version/document) <br>
 
 </div>
 
@@ -80,12 +80,6 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>Optimal Scoring Auctions for Procurement</b> (with [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/), [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Ernesto Rivera Mora](https://www.ernestoriveramora.com/))  — Status: Full data collected. [Part 1 Pre-Registration](https://www.socialscienceregistry.org/trials/17041) and [Part 2](https://www.socialscienceregistry.org/trials/17929)<br>
-
-</div>
-
-<div class="paper-entry" markdown="1">
-
 <b>Quota Rules and Holdout</b> (with [Metin Uyanik](https://sites.google.com/view/metinuyanik) and [Duygu Yengin](https://researchers.adelaide.edu.au/profile/duygu.yengin))  — Status: Full data collected. [Pre-Registration](https://www.socialscienceregistry.org/trials/18582)<br>
 </div>
 
@@ -95,6 +89,12 @@ css:
 <div class="paper-entry" markdown="1">
 
 Breig, Zachary, [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Declan Hunt](https://www.linkedin.com/in/declanhunt/). "<b>[Experimental Auctions with Securities](https://zacharybreig.com/papers/EAS.pdf)</b>." Forthcoming, _The Economic Journal_. [Pre-registration](https://www.socialscienceregistry.org/trials/9157) &middot; [PAP](https://www.socialscienceregistry.org/versions/145767/docs/version/document) <br>
+
+</div>
+
+<div class="paper-entry" markdown="1">
+
+Breig, Zachary, and [Hai Anh Pham](https://haianhpham.com/). "<b>[Finite foresight in Chomp](https://zacharybreig.com/papers/Chomp.pdf)</b>." _Journal of Economic Behavior & Organization_ 251 (2026): 107793. <br>
 
 </div>
 
