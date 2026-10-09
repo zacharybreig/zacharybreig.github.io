@@ -29,7 +29,7 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Scoring Contingent Auctions for Procurement: Theory and Experimental Evidence](https://zacharybreig.com/papers/CES.pdf)</b> (with [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/), [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Ernesto Rivera Mora](https://www.ernestoriveramora.com/)) [Part 1 Pre-Registration](https://www.socialscienceregistry.org/trials/17041) and [Part 2](https://www.socialscienceregistry.org/trials/17929)<br>
+<b>[Scoring Contingent Auctions for Procurement: Theory and Experimental Evidence](https://zacharybreig.com/papers/CES.pdf)</b> (with [Diego Carrasco Novoa](https://sites.google.com/view/dcarrasco/), [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Ernesto Rivera Mora](https://www.ernestoriveramora.com/)) Part 1: [Pre-Registration](https://www.socialscienceregistry.org/trials/17041) and [PAP](https://www.socialscienceregistry.org/versions/326705/docs/version/document) &middot; Part 2: [Pre-Registration](https://www.socialscienceregistry.org/trials/17929) and [PAP](https://www.socialscienceregistry.org/versions/326696/docs/version/document)<br>
 
 </div>
 
