@@ -100,15 +100,16 @@ Breig, Zachary, and [Hai Anh Pham](https://haianhpham.com/). "<b>[Finite foresig
 
 <div class="paper-entry" markdown="1">
 
-Breig, Zachary, [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Elliot Hiller](https://www.linkedin.com/in/elliot-j-hiller-/). "<b>[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf)</b>." _Experimental Economics_ 28, no. 4 (2025): 910-935. <br>
+Breig, Zachary, and [Paul Feldman](https://sites.google.com/view/pfeldman). "<b>[Revealed preference tests for linear probability-prize tradeoffs](https://zacharybreig.com/papers/LPPT.pdf)</b>." _Theory and Decision_ 100, no. 2 (2026): 403-425.
 
 </div>
 
 <div class="paper-entry" markdown="1">
 
-Breig, Zachary, and [Paul Feldman](https://sites.google.com/view/pfeldman). "<b>[Revealed preference tests for linear probability-prize tradeoffs](https://zacharybreig.com/papers/LPPT.pdf)</b>." _Theory and Decision_ (2025): 1-23. <br>
+Breig, Zachary, [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto), and [Elliot Hiller](https://www.linkedin.com/in/elliot-j-hiller-/). "<b>[Competition between sellers in security-bid auctions: An experimental study](https://zacharybreig.com/papers/EASCS.pdf)</b>." _Experimental Economics_ 28, no. 4 (2025): 910-935. <br>
 
 </div>
+
 
 <div class="paper-entry" markdown="1">
 
