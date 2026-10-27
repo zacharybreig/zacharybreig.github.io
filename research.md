@@ -23,7 +23,13 @@ css:
 
 <div class="paper-entry" markdown="1">
 
-<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with [Tono Carrasco](http://www.tonocarrasco.com/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) Revise and Resubmit, _Journal of Behavioral and Experimental Economics_ [Pre-registration](https://www.socialscienceregistry.org/trials/14339) &middot; [PAP](https://www.socialscienceregistry.org/versions/257741/docs/version/document) <br>
+<b>[Multi-Unit Search: An Experimental Approach](https://zacharybreig.com/papers/MUS.pdf)</b> (with [Tono Carrasco](http://www.tonocarrasco.com/) and [Allan Hern&aacute;ndez-Chanto](https://sites.google.com/site/aherchanto)) Accepted, _Journal of Behavioral and Experimental Economics_ [Pre-registration](https://www.socialscienceregistry.org/trials/14339) &middot; [PAP](https://www.socialscienceregistry.org/versions/257741/docs/version/document) <br>
+
+</div>
+
+<div class="paper-entry" markdown="1">
+
+<b>[Pricing to Naïve Learners: Belief Manipulation in Dynamic Monopoly](https://zacharybreig.com/papers/BMDM.pdf)</b> (with [Efraín Boza](https://www.linkedin.com/in/efrain-boza/?locale=en) and [Antonio Rosato](https://sites.google.com/site/rosatoeconomics/home))<br>
 
 </div>
 
